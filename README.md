@@ -24,6 +24,6 @@ Currently expanding into AI/HPC infrastructure, cloud networking, and automation
 
 - NVIDIA NCA GenAI (2026)
 - NVIDIA NCA-AIIO (2026)
-- Kubernetes CKA
-- CCNP Routing
+- Kubernetes CKA (2021)
+- CCNP Routing (2016)
 
